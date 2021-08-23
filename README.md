@@ -1,1 +1,3 @@
-# bungle-sort
+# Bubblesort
+
+A very inefficient sorting method.
